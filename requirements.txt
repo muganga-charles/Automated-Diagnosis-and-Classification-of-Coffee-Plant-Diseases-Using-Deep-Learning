@@ -1,4 +1,4 @@
-tensorflow==2.14.0
+tensorflow==2.11.0
 uvicorn==0.24.0
 fastapi==0.104.1
 numpy==1.26.0
