@@ -8,5 +8,5 @@ fastapi==0.104.1
 matplotlib==3.8.0
 matplotlib-inline==0.1.6
 urllib3==1.26.6
-# numpy==1.26.0
-# tensorrt==8.6.1
+numpy==1.26.0
+tensorrt==8.6.1
